@@ -1,26 +1,20 @@
 # Unauthenticated Password Hash Disclosure vulnerability
 
-BUG_Author: CMCSOC Redteam (@lithonn)
+Discoverer(s)/Credits: CMCSOC Redteam (@lithonn)
 
 - Ngo Van Tu (@leecybersec)
 - Tran Thi Nho (@nhott)
 - Huynh Nhat Hao (@h40huynh)
 - Le Thi Huyen My (@Huy3nMy)
 
-Vendor: https://www.sourcecodester.com/php/15748/book-store-management-system-project-using-php-codeigniter-3-free-source-code.html
+The product(s): https://www.sourcecodester.com/php/15748/book-store-management-system-project-using-php-codeigniter-3-free-source-code.html
 
-Source download: https://www.sourcecodester.com/sites/default/files/download/oretnom23/bsms_ci.zip
+Affected product(s)/code base: https://www.sourcecodester.com/sites/default/files/download/oretnom23/bsms_ci.zip
 
-Vulnerability location:
+Affected component(s): /bsms_ci/index.php/user/edit_user/{id}
 
-[+] Payload:
+Proof of Concept: Make a non-authenticated request to retrieve the admin user password hash.
 
-Burpsuite Request:
-
-``` txt
-
-```
-
-Image:
+[+] Payload: `curl localhost/bsms_ci/index.php/user/edit_user/1`
 
 ![image](link)
