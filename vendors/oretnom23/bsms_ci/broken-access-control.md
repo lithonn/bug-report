@@ -1,12 +1,5 @@
 # Broken Access Control
 
-Discoverer(s)/Credits: CMCSOC Redteam (@lithonn)
-
-- Ngo Van Tu (@leecybersec)
-- Tran Thi Nho (@nhott)
-- Huynh Nhat Hao (@h40huynh)
-- Le Thi Huyen My (@Huy3nMy)
-
 The product(s): https://www.sourcecodester.com/php/15748/book-store-management-system-project-using-php-codeigniter-3-free-source-code.html
 
 Affected product(s)/code base: https://www.sourcecodester.com/sites/default/files/download/oretnom23/bsms_ci.zip
@@ -45,3 +38,10 @@ Burpsuite Request:
 Image:
 
 ![image](link)
+
+Discoverer(s)/Credits: CMCSOC Redteam (@lithonn)
+
+- Ngo Van Tu (@leecybersec)
+- Tran Thi Nho (@nhott)
+- Huynh Nhat Hao (@h40huynh)
+- Le Thi Huyen My (@Huy3nMy)
