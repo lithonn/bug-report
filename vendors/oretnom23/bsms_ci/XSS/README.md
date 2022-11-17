@@ -77,7 +77,11 @@ Save
 
 Image:
 
-![image](link)
+![image](images/UI.png)
+
+![image](images/burpsuite_request.png)
+
+![image](images/xss.png)
 
 Discoverer(s)/Credits: CMCSOC Redteam (@lithonn)
 
