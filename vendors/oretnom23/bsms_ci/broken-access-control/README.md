@@ -8,7 +8,6 @@ Affected product(s)/code base: https://www.sourcecodester.com/sites/default/file
 
 Affected component(s):
 
-- /bsms_ci/index.php/dashboard/*
 - /bsms_ci/index.php/category/*
 - /bsms_ci/index.php/book/*
 - /bsms_ci/index.php/transaction/*
