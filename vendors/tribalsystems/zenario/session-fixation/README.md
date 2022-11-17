@@ -8,6 +8,8 @@ Affected product(s)/code base: https://github.com/TribalSystems/Zenario
 
 Affected component(s): /Zenario-9.3.57595/zenario/admin/welcome.ajax.php
 
+Tested version: Zenario-9.3.57595
+
 Proof of Concept:
 
 1. Logout with current session to confirm the session is not valid
