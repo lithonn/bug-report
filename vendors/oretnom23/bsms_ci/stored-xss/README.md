@@ -10,8 +10,6 @@ Affected component(s): /bsms_ci/index.php/book/add
 
 Proof of Concept: Go to /bsms_ci/index.php/book/add and using function “Add New Book” and insert payload at “Book Title", "Publisher" or "Author”.
 
-[+] Payload: `<script>alert(document.domain)</script>`
-
 Burpsuite Request:
 
 ```txt
