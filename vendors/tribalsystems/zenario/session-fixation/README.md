@@ -71,3 +71,6 @@ To confirm, request change password for admin is success.
 Discoverer(s)/Credits: CMCSOC Redteam (@lithonn)
 
 - Ngo Van Tu (@leecybersec)
+- Tran Thi Nho (@nhott)
+- Huynh Nhat Hao (@h40huynh)
+- Le Thi Huyen My (@Huy3nMy)
