@@ -78,7 +78,7 @@ Image:
 
 ![image](images/delete_user.png)
 
-Discoverer(s)/Credits: CMCSOC Redteam (@lithonn)
+Discoverer(s)/Credits: CMC TSSG
 
 - Ngo Van Tu (@leecybersec)
 - Tran Thi Nho (@nhott)

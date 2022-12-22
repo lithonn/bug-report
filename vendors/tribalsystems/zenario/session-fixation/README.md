@@ -68,7 +68,7 @@ To confirm, request change password for admin is success.
 
 ![](images/change-pass-success.png)
 
-Discoverer(s)/Credits: CMCSOC Redteam (@lithonn)
+Discoverer(s)/Credits: CMC TSSG
 
 - Ngo Van Tu (@leecybersec)
 - Tran Thi Nho (@nhott)

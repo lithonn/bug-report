@@ -14,7 +14,7 @@ Proof of Concept: Make a non-authenticated request to retrieve the admin user pa
 
 ![image](images/password-hash.png)
 
-Discoverer(s)/Credits: CMCSOC Redteam (@lithonn)
+Discoverer(s)/Credits: CMC TSSG
 
 - Ngo Van Tu (@leecybersec)
 - Tran Thi Nho (@nhott)
